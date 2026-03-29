@@ -1,5 +1,11 @@
 # 🏭 Industrial Machine Monitoring Dashboard
 ________________________________________
+
+**📸 Dashboard Preview Image for the above project :**
+
+<img width="1854" height="955" alt="Screenshot 2026-03-27 184845" src="https://github.com/user-attachments/assets/cb200b97-1b81-4a06-97f4-3ecbc4b6ee13" />
+
+________________________________________
  **📖 The Story Behind This Project**:
 
 In industrial operations, even a small machine failure can lead to significant downtime and financial loss.
